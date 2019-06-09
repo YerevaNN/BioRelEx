@@ -1,12 +1,9 @@
 #!/usr/bin/python
 
 """
-Original evaluation script for BioRelEx: Biomedical Relation Extraction Benchmark.
+The main evaluation and error analysis script for BioRelEx: Biomedical Relation Extraction Benchmark.
 Only Python 3.5+ supported.
-
-Copyright (c) ...
 """
-
 
 import re
 import json
